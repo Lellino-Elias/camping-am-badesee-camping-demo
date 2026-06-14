@@ -105,7 +105,7 @@ const campingAmBadesee: CampsiteConfig = {
       },
       {
         title: "Frühstücksgebäck-Service",
-        text: "Täglich ab 8 Uhr frisches Gebäck, hausgemachte Marmeladen, Bio-Honig, Bauernbutter und frische Flaschenmilch — abholen oder im Gasthaus genießen.",
+        text: "Täglich ab 8 Uhr frisches Gebäck, Marmeladen, Bio-Honig und Bauernbutter — zum Abholen oder im Gasthaus genießen.",
         image: { src: `${IMG}/gallery-e8c29928e9.webp`, alt: "Frühstücksgebäck mit Marmelade, Honig und Milch" },
       },
       {
