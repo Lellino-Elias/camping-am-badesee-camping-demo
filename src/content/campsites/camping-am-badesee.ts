@@ -167,7 +167,7 @@ const campingAmBadesee: CampsiteConfig = {
       {
         title: "Radfahren & Mountainbiken",
         text: "Vom See aus starten zahlreiche Touren durch den Naturpark Zirbitzkogel-Grebenzen und die Wanderregion Murau.",
-        image: { src: `${IMG}/activity-346544db65.webp`, alt: "Radfahrer an einem Waldsee in der Naturparkregion" },
+        image: { src: `${IMG}/activity-ff5b38268a.webp`, alt: "Mountainbiker im Naturpark Zirbitzkogel-Grebenzen mit Bergpanorama" },
       },
       {
         title: "Sautrogregatta & Bootsspaß",
